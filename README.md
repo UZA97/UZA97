@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UZA97
 - 👀 I’m interested in Game Client
-- 🌱 I’m currently learning C++ & Python
-- 💞️ I’m looking to collaborate on having spirit 
+- 🌱 I’m currently learning C++/C# and Python
+- 💞️ I’m looking to collaborate on having spirit
 - 📫 How to reach me ...
 
 <!---
