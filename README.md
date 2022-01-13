@@ -1,10 +1,10 @@
-## Hi there 👋, my name is Jawoo
-### I wanna be a developer
+# Hi there 👋, my name is Jawoo
+## I wanna be a developer
 
 
 
 
-####Skills: Unity / UE4
+###Skills: Unity / UE4
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Unity 
