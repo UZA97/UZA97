@@ -9,4 +9,4 @@ UZA97/UZA97 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-/aur/license/:packageName
+https://img.shields.io/aur/license/s?color=s&label=s&logo=s&logoColor=s&style=plastic
