@@ -3,7 +3,7 @@
 
 ⭐⭐⭐ [Check out this tool here.](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
-![Github Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Github Readme Generator](https://arturssmirnovs.github.io/Jawoo-profile-readme-generator/images/banner.png)
 
 This project allows you to easily create attractive and simple GitHub Readme files that you can copy/paste in your profile. It's currently available in English and Spanish.
 
