@@ -8,5 +8,5 @@
 UZA97/UZA97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://JaWoo.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <img src="https://img.shields.io/badge/Unity-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
