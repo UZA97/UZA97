@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on having spirit
 - 📫 How to reach me ...https://www.notion.so/71f2d1ac0ad44aa5abdff8746c85f6da
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=000000&logoColor=red"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/42=Seoul-000000?style=for-the-badge&logo=000000&logoColor=red"/></a>
 
 
 
