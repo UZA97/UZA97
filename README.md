@@ -22,7 +22,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](c)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://www.notion.so/71f2d1ac0ad44aa5abdff8746c85f6da)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://github.com/UZA97' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UZA97)](https://github.com/UZA97)
 
