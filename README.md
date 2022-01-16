@@ -5,7 +5,7 @@
 ### Skills: Unity / UE4
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Unity 
+- 🌱 I’m currently learning Unity & UE4
 - 👯 I’m looking to collaborate on Game 
 - 🤔 I’m looking for help with Game 
 - 💬 
