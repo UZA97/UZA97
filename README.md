@@ -17,9 +17,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UZA97)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blog.naver.com/woocfgzn)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='unity' height='40'>](https://play.unity.com/u/woocfgzn306)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg' alt='unrealengine' height='40'>](k)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](c)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](c)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg' alt='unrealengine' height='40'>](https://blog.naver.com/woocfgzn)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://blog.naver.com/woocfgzn)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](https://blog.naver.com/woocfgzn)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://www.notion.so/71f2d1ac0ad44aa5abdff8746c85f6da)  
 
 
