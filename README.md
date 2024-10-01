@@ -2,10 +2,10 @@
 ## I wanna be a developer
 
 
-### Skills: Unity / UE4
+### Skills: Unity
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Unity & UE4
+- 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on Game 
 - 🤔 I’m looking for help with Game 
 
